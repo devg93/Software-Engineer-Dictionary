@@ -6,7 +6,7 @@
 
 # B
 - [[BASE]] - Basically Available, Soft state, Eventually consistent
-- [[Bounded Context]]
+- [[DotNet-C#/Bounded Context]]
 - [[Backwards compatibility]]
 
 # C

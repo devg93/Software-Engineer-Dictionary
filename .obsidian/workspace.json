@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eb69715e86d59ce7",
+        "id": "f3ac53fd664f4151",
         "type": "tabs",
         "children": [
           {
-            "id": "37cae6691022ac0f",
+            "id": "af557d63ac930e06",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 429.5
   },
   "right": {
     "id": "0b65d3ec2cc046ea",
@@ -162,29 +162,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "37cae6691022ac0f",
+  "active": "7a8ebf8d785a20d2",
   "lastOpenFiles": [
-    "ლოგირება და ლოგირების სტრატეგიები/structured logging-სტრუქტურირებული.md",
-    "ლოგირება და ლოგირების სტრატეგიები/Retention და Rotation.md",
-    "ლოგირება და ლოგირების სტრატეგიები/log centralization-ლოგების ცენტრალიზაცია.md",
-    "ლოგირება და ლოგირების სტრატეგიები/adding context-კონტექსტის დამატება.md",
-    "ლოგირება და ლოგირების სტრატეგიები/Level management-დონეების მართვა.md",
-    "ლოგირება და ლოგირების სტრატეგიები/Correlation Id.md",
-    "Bounded Context.md",
-    "Level management - დონეების მართვა.md",
-    "ლოგირება და ლოგირების სტრატეგიები",
-    "BASE.md",
-    "Backwards compatibility.md",
-    "APM.md",
-    "Anemic Domain Model.md",
-    "Alignment.md",
-    "ACID.md",
-    "Extrinsic State.md",
-    "Zero Downtime Deployment.md",
+    "Dictionary.md",
+    "Pascal.base",
+    "DDD/Level management - დონეების მართვა.md",
+    "Untitled 10.base",
+    "Network/Vertical Scaling.md",
+    "Claude and Servers/SaaS.md",
+    "Untitled 17.base",
+    "Untitled 6.base",
+    "Untitled 2.base",
+    "Untitled.canvas",
     "Untitled.base",
-    "Untitled 11.base",
-    "Untitled 9.base",
-    "Eventual Consistency.md",
-    "Debt Log.md"
+    "DDD/Transaction Script.md",
+    "Network/Throughput.md",
+    "DotNet-C#/Ternary Operator.md",
+    "DotNet-C#/TAP.md",
+    "Distributed/SUT System Under Test.md",
+    "DDD/SuD System under Design  Development  Discussion.md",
+    "Distributed/Resilience.md",
+    "Claude and Servers/Semi-Structured Data.md",
+    "I/Retry Policies.md",
+    "SLQ/Replication.md",
+    "README.md",
+    "DotNet-C#/Producer.md",
+    "DotNet-C#/Padding.md",
+    "DotNet-C#/Packing.md",
+    "Claude and Servers/PaaS.md",
+    "DotNet-C#/Orchestration.md",
+    "NoSQL/NoSQL.md",
+    "Network/Load Balancing.md",
+    "Network/Latency.md",
+    "DotNet-C#/Invocator.md",
+    "DotNet-C#/Intrinsic State.md",
+    "Distributed",
+    "Network",
+    "Claude and Servers",
+    "Untitled 16.base"
   ]
 }
