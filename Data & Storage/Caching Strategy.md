@@ -1,0 +1,1 @@
+read-through, write-through, write-behind, cache stampede protection (locks, jitter).

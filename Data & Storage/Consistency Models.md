@@ -1,0 +1,1 @@
+strong vs read-your-writes vs monotonic reads; CRDT basics.

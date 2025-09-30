@@ -1,0 +1,1 @@
+2PC pitfalls, try-confirm/cancel, outbox/inbox patterns.

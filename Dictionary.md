@@ -31,13 +31,13 @@
 - [[Debt Log]]
 
 # E
-- [[Eventual Consistency]]
+- [[Data & Storage/Eventual Consistency]]
 - [[Extendability]]
 - [[Extrinsic State]]
 - [[EAP]]
 
 # F
-- [[Fault Tolerance]]
+- [[Distributed/Fault Tolerance]]
 
 # G
 
@@ -47,7 +47,7 @@
 
 # I 
 - [[IaaS]] - Infrastructure as a Service
-- [[I/O-Bound]]
+- [[O-Bound]]
 - [[Intrinsic State]]
 - [[Invocator]]
 - [[Integration Strength]]
@@ -88,7 +88,7 @@
 - [[Strong Consistency]]
 - [[SaaS]] - Software as a Service
 - [[Semi-Structured Data]]
-- [[Sharding]]
+- [[SLQ/Sharding]]
 - [[SuD System under Design  Development  Discussion]]
 - [[SUT System Under Test]]
 
