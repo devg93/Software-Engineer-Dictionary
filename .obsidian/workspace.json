@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4500231c72083f6e",
+        "id": "2798ebb5a6b2a17b",
         "type": "tabs",
         "children": [
           {
-            "id": "a3f8e5073bea1626",
+            "id": "a3fff53d74a3b05c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NET-Specific Advanced/Keep-Alive.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Keep-Alive"
+              "title": "New tab"
             }
           }
         ]
@@ -166,10 +162,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "a3f8e5073bea1626",
+  "active": "a3fff53d74a3b05c",
   "lastOpenFiles": [
-    "NET-Specific Advanced/Multiplexing.md",
-    "NET-Specific Advanced/Keep-Alive.md",
+    "Architecture/Service Discovery.md",
+    "DotNet-C#/Optimistic concurrency ETag-RowVersion.md",
+    "Architecture/Eventual Consistency.md",
+    "Network/Optimistic concurrency ETag-RowVersion.md",
+    "NET-Specific Advanced/Configuration at Scale – options validation, dynamic reload, per-tenant config overlays, feature management..md",
+    "NET-Specific Advanced/EF Core at Scale – compiled queries, query splitting vs single query, 2nd-level caching, batching, connection pool tuning..md",
+    "NET-Specific Advanced/Minimal APIs vs Controllers – hot paths, AOT trimming, source generators..md",
+    "Network/Multiplexing.md",
+    "Network/Keep-Alive.md",
     "NET-Specific Advanced/Async & Throughput – I-O vs CPU-bound separation, ValueTask usage, Channels-Pipelines, IAsyncEnumerable backpressure..md",
     "NET-Specific Advanced/Task vs ValueTask.md",
     "DDD Tactical Deep-Dive/Anti-Corruption Layer (ACL) — translation maps, published language..md",
@@ -193,14 +196,7 @@
     "Governance & Design Quality/Architecture Decision Records (ADR) – lightweight decision logs, consequences, revisit cadence..md",
     "Governance & Design Quality/Migration Strategies – expand-contract, dual-write with verifiers, read-repair..md",
     "Governance & Design Quality/Schema Evolution – protobuf-JSON backwards-compat, deprecation playbooks, shadow reads-writes..md",
-    "Governance & Design Quality/Bounded Contexts & Anti-Corruption Layer – translation maps, published language, upstream-downstream responsibilities..md",
-    "NET-Specific Advanced/Minimal APIs vs Controllers – hot paths, AOT trimming, source generators..md",
     "Governance & Design Quality",
-    "NET-Specific Advanced/EF Core at Scale – compiled queries, query splitting vs single query, 2nd-level caching, batching, connection pool tuning..md",
-    "NET-Specific Advanced/High-Perf Networking – Kestrel tuning, HTTP-3 (QUIC), gRPC streaming, span-Memory<T> zero-copy..md",
-    "NET-Specific Advanced/Configuration at Scale – options validation, dynamic reload, per-tenant config overlays, feature management..md",
-    "NET-Specific Advanced/Testing Strategy – contract tests (gRPC-REST), consumer-driven contracts (Pact), Testcontainers, deterministic time-IDs..md",
-    "Delivery & Ops/Incident Response – SLO-SLI-SLA, error budgets, postmortems (blameless, actionable)..md",
     "NET-Specific Advanced",
     "Delivery & Ops",
     "Performance & Resilience",
