@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "04c517ece6bdc255",
+        "id": "eef1faa0fa3330b7",
         "type": "tabs",
         "children": [
           {
-            "id": "0aaa64f213edb218",
+            "id": "a3283000efa9212b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Time-based invalidation (TTL) -.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Time-based invalidation (TTL) -"
-            }
-          },
-          {
-            "id": "db0a27e8aa0d6b42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "დისტრიბუციული ქეში მექანიზმები.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "დისტრიბუციული ქეში მექანიზმები"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,9 +162,33 @@
       "bases:Create new base": false
     }
   },
-  "active": "db0a27e8aa0d6b42",
+  "active": "a3283000efa9212b",
   "lastOpenFiles": [
-    "Time-based invalidation (TTL) -.md",
+    "Lybralis/EF Core/Compiled Queries.md",
+    "Pasted image 20251025220549.png",
+    "Lybralis/EF Core/N+1 Problem.md",
+    "Pasted image 20251025220506.png",
+    "Pasted image 20251025220406.png",
+    "ტერმინები/Programming Concepts.md",
+    "Pasted image 20251025220224.png",
+    "Pasted image 20251025220132.png",
+    "Lybralis/EF Core/concurrency handling.md",
+    "ტერმინები/Programming Concepts/Untitled.md",
+    "ტერმინები/- Sequential Async.md",
+    "ტერმინები/Programming Concepts",
+    "Pasted image 20251025215553.png",
+    "Pasted image 20251025215520.png",
+    "Pasted image 20251025215500.png",
+    "Pasted image 20251025215340.png",
+    "Pasted image 20251025215313.png",
+    "Lybralis/PosgreSql",
+    "Lybralis/MsSql",
+    "Lybralis/MySql",
+    "Lybralis/Redis",
+    "Lybralis.md",
+    "Lybralis/EF Core",
+    "Lybralis",
+    "ტერმინები/Time-based invalidation (TTL) -.md",
     "დისტრიბუციული ქეში მექანიზმები.md",
     "Architecture/Service Discovery.md",
     "SOLID-GRASP/GRASP.md",
@@ -204,21 +209,6 @@
     "ტერმინები/Deadlock.md",
     "ტერმინები/Race Condition.md",
     "ტერმინები/Collision.md",
-    "ტერმინები",
-    "Solutions/fault-tolerance - recovery.md",
-    "Solutions/Distributed Lock.md",
-    "Solutions",
-    "SOLID-GRASP/Big Ball of Mud.md",
-    "SOLID-GRASP/God Class.md",
-    "SOLID-GRASP",
-    "Cloud & Infra/Rrdis.md",
-    "NET-Specific Advanced/connection pool.md",
-    "NET-Specific Advanced/EF Core at Scale – compiled queries, query splitting vs single query,2nd-level caching, batching,connection pool.md",
-    "Network/Throughput.md",
-    "DDD Tactical Deep-Dive",
-    "Data & Analytics at Scale",
-    "Messaging & Streams",
-    "Governance & Evolution",
     "Untitled.canvas"
   ]
 }

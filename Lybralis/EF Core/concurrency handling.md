@@ -1,0 +1,2 @@
+**DbContext-ის შიდა State არ არის Thread-Safe**
+![[Pasted image 20251025215313.png]]![[Pasted image 20251025215340.png]]![[Pasted image 20251025215500.png]]![[Pasted image 20251025215520.png]]![[Pasted image 20251025215553.png]]
