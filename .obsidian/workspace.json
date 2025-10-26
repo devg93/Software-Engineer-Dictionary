@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bf9c8fdfeb052d2a",
+        "id": "d375e8c713441b59",
         "type": "tabs",
         "children": [
           {
-            "id": "23483606bf001e08",
+            "id": "f0cc2b7ebba9f60e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -162,8 +162,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "23483606bf001e08",
+  "active": "7a8ebf8d785a20d2",
   "lastOpenFiles": [
+    "1761030962892.pdf",
+    "Unconfirmed 886022.crdownload",
+    "Lybralis/EF Core/transactional consistency vs. partial commit.md",
+    "Lybralis/EF Core/EF-ის resilient executor.md",
+    "Lybralis/EF Core/Compiled Queries.md",
+    "Lybralis/EF Core/Value Conversions.md",
+    "ტერმინები/stateful session object.md",
     "ტერმინები/Retention.md",
     "Lybralis/EF Core/Connection Resiliency.md",
     "Pasted image 20251025230840.png",
@@ -183,7 +190,6 @@
     "Lybralis/EF Core/Collations (Case Sensitivity).md",
     "Lybralis/EF Core/Change Tracker & State Management.md",
     "Lybralis/EF Core/Batch Operations.md",
-    "Lybralis/EF Core/Compiled Queries.md",
     "Pasted image 20251025225800.png",
     "Pasted image 20251025225738.png",
     "Lybralis/EF Core/Index Optimization/Descending Index.md",
@@ -195,11 +201,6 @@
     "Lybralis/EF Core/Query Filters & Tags.md",
     "Lybralis/EF Core/Spatial Data (Geography Geometry).md",
     "Lybralis/EF Core/Shadow Properties.md",
-    "Lybralis/EF Core/Index Optimization/Shadow Properties.md",
-    "Lybralis/EF Core/Index Optimization/Named Index.md",
-    "Lybralis/EF Core/Index Optimization/Composite Index (მრავალი column).md",
-    "Lybralis/EF Core/Index Optimization/Simple Index.md",
-    "Index Optimization.md",
     "Lybralis/EF Core/Index Optimization",
     "ტერმინები/Programming Concepts",
     "Lybralis/PosgreSql",
@@ -209,7 +210,6 @@
     "Lybralis/EF Core",
     "Lybralis",
     "docker-redis-sql/Redis",
-    "docker-redis-sql/Docker",
     "Untitled.canvas"
   ]
 }
