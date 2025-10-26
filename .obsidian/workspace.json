@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d375e8c713441b59",
+        "id": "70dd51d40151808f",
         "type": "tabs",
         "children": [
           {
-            "id": "f0cc2b7ebba9f60e",
+            "id": "56a5beeb23f80a55",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Solutions/REST → RPC.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "REST → RPC"
             }
           }
         ]
@@ -162,8 +166,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "7a8ebf8d785a20d2",
+  "active": "56a5beeb23f80a55",
   "lastOpenFiles": [
+    "Solutions/fault-tolerance - recovery.md",
+    "Solutions/REST → RPC.md",
+    "დისტრიბუციული ქეში მექანიზმები.md",
+    "PDF/1761030962892.pdf",
     "1761030962892.pdf",
     "Unconfirmed 886022.crdownload",
     "Lybralis/EF Core/transactional consistency vs. partial commit.md",
@@ -199,8 +207,6 @@
     "Lybralis/EF Core/Index Optimization/Non-Clustered.md",
     "Lybralis/EF Core/Index Optimization/Clustered Index (SQL Server).md",
     "Lybralis/EF Core/Query Filters & Tags.md",
-    "Lybralis/EF Core/Spatial Data (Geography Geometry).md",
-    "Lybralis/EF Core/Shadow Properties.md",
     "Lybralis/EF Core/Index Optimization",
     "ტერმინები/Programming Concepts",
     "Lybralis/PosgreSql",
@@ -208,8 +214,6 @@
     "Lybralis/MySql",
     "Lybralis/Redis",
     "Lybralis/EF Core",
-    "Lybralis",
-    "docker-redis-sql/Redis",
     "Untitled.canvas"
   ]
 }
