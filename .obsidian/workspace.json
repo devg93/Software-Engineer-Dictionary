@@ -4,17 +4,29 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "4c06bd57015e6c08",
         "type": "tabs",
         "children": [
           {
             "id": "62373ef63dc65329",
+=======
+        "id": "70dd51d40151808f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56a5beeb23f80a55",
+>>>>>>> daa810119da91ebad61666eb70a1ebecd9a0811f
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Solutions/REST → RPC.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "REST → RPC"
             }
           }
         ]
@@ -162,6 +174,7 @@
       "bases:Create new base": false
     }
   },
+<<<<<<< HEAD
   "active": "62373ef63dc65329",
   "lastOpenFiles": [
     "Cloud & Infra/Fault Tolerance.md",
@@ -193,6 +206,14 @@
     "PNGS",
     "ტერმინები/Idempotent Operation.md",
     "ტერმინები/stateful session object.md",
+=======
+  "active": "56a5beeb23f80a55",
+  "lastOpenFiles": [
+    "Solutions/fault-tolerance - recovery.md",
+    "Solutions/REST → RPC.md",
+    "დისტრიბუციული ქეში მექანიზმები.md",
+    "PDF/1761030962892.pdf",
+>>>>>>> daa810119da91ebad61666eb70a1ebecd9a0811f
     "1761030962892.pdf",
     "Lybralis/EF Core/concurrency handling.md",
     "Lybralis/EF Core/DbContext Pooling.md",
@@ -207,9 +228,46 @@
     "Lybralis/EF Core/Compiled Queries.md",
     "Lybralis/EF Core/Value Conversions.md",
     "ტერმინები/Retention.md",
+<<<<<<< HEAD
     "Lybralis/EF Core/Index Optimization",
     "ტერმინები/Programming Concepts",
     "Lybralis/PosgreSql",
+=======
+    "Lybralis/EF Core/Connection Resiliency.md",
+    "Pasted image 20251025230840.png",
+    "Pasted image 20251025230730.png",
+    "Pasted image 20251025230614.png",
+    "Pasted image 20251025230512.png",
+    "Pasted image 20251025230441.png",
+    "Pasted image 20251025230412.png",
+    "Pasted image 20251025230141.png",
+    "Pasted image 20251025230113.png",
+    "Lybralis/EF Core/concurrency handling.md",
+    "Lybralis/EF Core/Concurrency Control.md",
+    "Lybralis/EF Core/DbContext Pooling.md",
+    "Lybralis/EF Core/N+1 Problem.md",
+    "Lybralis/EF Core/Raw SQL & Stored Procedures.md",
+    "Lybralis/EF Core/Transactions.md",
+    "Lybralis/EF Core/Collations (Case Sensitivity).md",
+    "Lybralis/EF Core/Change Tracker & State Management.md",
+    "Lybralis/EF Core/Batch Operations.md",
+    "Pasted image 20251025225800.png",
+    "Pasted image 20251025225738.png",
+    "Lybralis/EF Core/Index Optimization/Descending Index.md",
+    "Lybralis/EF Core/Index Optimization/Covering Index.md",
+    "Lybralis/EF Core/Index Optimization/Filtered Index (conditional).md",
+    "Lybralis/EF Core/Index Optimization/Unique Index.md",
+    "Lybralis/EF Core/Index Optimization/Non-Clustered.md",
+    "Lybralis/EF Core/Index Optimization/Clustered Index (SQL Server).md",
+    "Lybralis/EF Core/Query Filters & Tags.md",
+    "Lybralis/EF Core/Index Optimization",
+    "ტერმინები/Programming Concepts",
+    "Lybralis/PosgreSql",
+    "Lybralis/MsSql",
+    "Lybralis/MySql",
+    "Lybralis/Redis",
+    "Lybralis/EF Core",
+>>>>>>> daa810119da91ebad61666eb70a1ebecd9a0811f
     "Untitled.canvas"
   ]
 }
