@@ -1,32 +1,24 @@
 {
   "main": {
-    "id": "923afe895bc0fb96",
+    "id": "92a70ed79873e16b",
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "4c06bd57015e6c08",
+        "id": "3e2c664f08e8a1d2",
         "type": "tabs",
         "children": [
           {
-            "id": "62373ef63dc65329",
-=======
-        "id": "70dd51d40151808f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "56a5beeb23f80a55",
->>>>>>> daa810119da91ebad61666eb70a1ebecd9a0811f
+            "id": "c34f0184659121d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Solutions/REST → RPC.md",
+                "file": "Cloud & Infra/ვირტუალიზაცია vs კონტეინერიზაცია/Hypervisor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "REST → RPC"
+              "title": "Hypervisor"
             }
           }
         ]
@@ -35,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "1384ad5738ba12e0",
+    "id": "810fcae5362fb234",
     "type": "split",
     "children": [
       {
-        "id": "b012c0e4ae86e155",
+        "id": "d0753eb3023d7f63",
         "type": "tabs",
         "children": [
           {
-            "id": "7a8ebf8d785a20d2",
+            "id": "c2dd0f116f0e1d01",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +48,7 @@
             }
           },
           {
-            "id": "bc1f7fe85513ab71",
+            "id": "ec4fe0cf179abc2d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -73,7 +65,7 @@
             }
           },
           {
-            "id": "cd97f27bf5a42fc6",
+            "id": "ead3da665bc731a0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -86,18 +78,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 559.5
+    "width": 300
   },
   "right": {
-    "id": "0b65d3ec2cc046ea",
+    "id": "0d2ed9392c840807",
     "type": "split",
     "children": [
       {
-        "id": "b5b97882dc96b8c4",
+        "id": "f6475fc8e5745014",
         "type": "tabs",
         "children": [
           {
-            "id": "e7f28c3b73e7362d",
+            "id": "50bfe4bdd59572d9",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -115,7 +107,7 @@
             }
           },
           {
-            "id": "bf08e5778992c519",
+            "id": "023271ea46995925",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -128,7 +120,7 @@
             }
           },
           {
-            "id": "1ba032c9ed51c780",
+            "id": "b6bfc5105d4d6b1f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -143,7 +135,7 @@
             }
           },
           {
-            "id": "efe3278f6600fb98",
+            "id": "04ff23588341a9c6",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -174,100 +166,32 @@
       "bases:Create new base": false
     }
   },
-<<<<<<< HEAD
-  "active": "62373ef63dc65329",
+  "active": "c34f0184659121d2",
   "lastOpenFiles": [
-    "Cloud & Infra/Fault Tolerance.md",
+    "Cloud & Infra/ვირტუალიზაცია vs კონტეინერიზაცია/Map.md",
+    "Cloud & Infra/ვირტუალიზაცია vs კონტეინერიზაცია/Orchestration (Kubernetes).md",
+    "Cloud & Infra/Infrastructure as Code (IaC – Terraform, Bicep).md",
+    "Cloud & Infra/ვირტუალიზაცია vs კონტეინერიზაცია/Deployment strategies.md",
+    "Cloud & Infra/Saas-Paas-Laas/SaaS.md",
+    "Cloud & Infra/Saas-Paas-Laas",
+    "Cloud & Infra/Semi-Structured Data.md",
+    "Cloud & Infra/Serverless Computing.md",
+    "Cloud & Infra/SUT System Under Test.md",
+    "Cloud & Infra/Resilience.md",
+    "Cloud & Infra/Rrdis.md",
+    "Cloud & Infra/Saas-Paas-Laas/IaaS.md",
     "Cloud & Infra/Debt Log.md",
-    "Lybralis/PosgreSql/Untitled.md",
-    "Cloud & Infra/Deployment strategies.md",
-    "ტერმინები/Batching Vs Streaming.md",
-    "ტერმინები/Streaming.md",
-    "Network/RPC (Remote Procedure Call).md",
-    "ტერმინები/Interceptors.md",
-    "ტერმინები/Connection Resiliency.md",
-    "Tools/RabbitMQ/RPC Pattern.md",
-    "Tools/RabbitMQ",
-    "PNGS/Pasted image 20251027102716.png",
-    "PNGS/Pasted image 20251027102629.png",
-    "PNGS/Pasted image 20251027102600.png",
-    "PNGS/Pasted image 20251027102534.png",
-    "Pasted image 20251025221515.png",
-    "Solutions/დისტრიბუციული ქეში მექანიზმები.md",
-    "PDF/1761030962892.pdf",
-    "PDF",
-    "New folder",
-    "PNGS/Pasted image 20251025221515.png",
-    "PNGS/Pasted image 20251025224010.png",
-    "PNGS/Pasted image 20251025223911.png",
-    "PNGS/Pasted image 20251025223813.png",
-    "PNGS/Pasted image 20251025223740.png",
-    "ტერმინები/Atomic Operation.md",
-    "PNGS",
-    "ტერმინები/Idempotent Operation.md",
-    "ტერმინები/stateful session object.md",
-=======
-  "active": "56a5beeb23f80a55",
-  "lastOpenFiles": [
-    "Solutions/fault-tolerance - recovery.md",
-    "Solutions/REST → RPC.md",
-    "დისტრიბუციული ქეში მექანიზმები.md",
-    "PDF/1761030962892.pdf",
->>>>>>> daa810119da91ebad61666eb70a1ebecd9a0811f
-    "1761030962892.pdf",
-    "Lybralis/EF Core/concurrency handling.md",
-    "Lybralis/EF Core/DbContext Pooling.md",
-    "README.md",
-    "დისტრიბუციული ქეში მექანიზმები.md",
-    "Dictionary.md",
-    "Index Optimization.md",
-    "Lybralis.md",
-    "Unconfirmed 886022.crdownload",
-    "Lybralis/EF Core/transactional consistency vs. partial commit.md",
-    "Lybralis/EF Core/EF-ის resilient executor.md",
-    "Lybralis/EF Core/Compiled Queries.md",
-    "Lybralis/EF Core/Value Conversions.md",
-    "ტერმინები/Retention.md",
-<<<<<<< HEAD
-    "Lybralis/EF Core/Index Optimization",
-    "ტერმინები/Programming Concepts",
-    "Lybralis/PosgreSql",
-=======
-    "Lybralis/EF Core/Connection Resiliency.md",
-    "Pasted image 20251025230840.png",
-    "Pasted image 20251025230730.png",
-    "Pasted image 20251025230614.png",
-    "Pasted image 20251025230512.png",
-    "Pasted image 20251025230441.png",
-    "Pasted image 20251025230412.png",
-    "Pasted image 20251025230141.png",
-    "Pasted image 20251025230113.png",
-    "Lybralis/EF Core/concurrency handling.md",
-    "Lybralis/EF Core/Concurrency Control.md",
-    "Lybralis/EF Core/DbContext Pooling.md",
-    "Lybralis/EF Core/N+1 Problem.md",
-    "Lybralis/EF Core/Raw SQL & Stored Procedures.md",
-    "Lybralis/EF Core/Transactions.md",
-    "Lybralis/EF Core/Collations (Case Sensitivity).md",
-    "Lybralis/EF Core/Change Tracker & State Management.md",
-    "Lybralis/EF Core/Batch Operations.md",
-    "Pasted image 20251025225800.png",
-    "Pasted image 20251025225738.png",
-    "Lybralis/EF Core/Index Optimization/Descending Index.md",
-    "Lybralis/EF Core/Index Optimization/Covering Index.md",
-    "Lybralis/EF Core/Index Optimization/Filtered Index (conditional).md",
-    "Lybralis/EF Core/Index Optimization/Unique Index.md",
-    "Lybralis/EF Core/Index Optimization/Non-Clustered.md",
-    "Lybralis/EF Core/Index Optimization/Clustered Index (SQL Server).md",
-    "Lybralis/EF Core/Query Filters & Tags.md",
-    "Lybralis/EF Core/Index Optimization",
-    "ტერმინები/Programming Concepts",
-    "Lybralis/PosgreSql",
-    "Lybralis/MsSql",
-    "Lybralis/MySql",
-    "Lybralis/Redis",
-    "Lybralis/EF Core",
->>>>>>> daa810119da91ebad61666eb70a1ebecd9a0811f
-    "Untitled.canvas"
+    "Cloud & Infra/CAP",
+    "Cloud & Infra/ვირტუალიზაცია vs კონტეინერიზაცია/Network Virtualization.md",
+    "Cloud & Infra/ვირტუალიზაცია vs კონტეინერიზაცია/Disk Virtualization (Storage Layer).md",
+    "Cloud & Infra/ვირტუალიზაცია vs კონტეინერიზაცია/Memory Virtualization.md",
+    "Cloud & Infra/ვირტუალიზაცია vs კონტეინერიზაცია/Hypervisor Scheduler.md",
+    "Cloud & Infra/ვირტუალიზაცია vs კონტეინერიზაცია/Hypervisor.md",
+    "Cloud & Infra/ვირტუალიზაცია vs კონტეინერიზაცია/Kernel.md",
+    "Cloud & Infra/ვირტუალიზაცია vs კონტეინერიზაცია/System Call (syscall).md",
+    "Cloud & Infra/ვირტუალიზაცია vs კონტეინერიზაცია/ვირტუალიზაცია vs კონტეინერიზაცია.md",
+    "Cloud & Infra/ვირტუალიზაცია vs კონტეინერიზაცია",
+    "Untitled",
+    "Cloud & Infra/Hypervisor"
   ]
 }
