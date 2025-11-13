@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3e2c664f08e8a1d2",
+        "id": "ef55c29c6e1840ff",
         "type": "tabs",
         "children": [
           {
-            "id": "c34f0184659121d2",
+            "id": "ab3e2e17837d8287",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud & Infra/ვირტუალიზაცია vs კონტეინერიზაცია/Hypervisor.md",
+                "file": "NET-Specific Advanced/Closure-ქლოუჟერი.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hypervisor"
+              "title": "Closure-ქლოუჟერი"
             }
           }
         ]
@@ -166,30 +166,36 @@
       "bases:Create new base": false
     }
   },
-  "active": "c34f0184659121d2",
+  "active": "ab3e2e17837d8287",
   "lastOpenFiles": [
+    "ლოგირება და ლოგირების სტრატეგიები/Level management-დონეების მართვა.md",
+    "NET-Specific Advanced/Closure-ქლოუჟერი.md",
+    "ლოგირება და ლოგირების სტრატეგიები/Retention და Rotation.md",
+    "ლოგირება და ლოგირების სტრატეგიები/structured logging-სტრუქტურირებული.md",
+    "ლოგირება და ლოგირების სტრატეგიები/Correlation Id.md",
+    "ტერმინები/all.md",
+    "ტერმინები/Time-based invalidation (TTL) -.md",
+    "Architecture/Caching (Redis, In-memory, Distributed).md",
+    "Architecture/Service Discovery.md",
+    "Architecture/Plug-in Architecture.md",
+    "Architecture/Monolith vs Microservices vs Modular Monolith.md",
+    "Architecture/Eventual Consistency.md",
+    "Cloud & Infra/CAP/Fault Tolerance.md",
+    "Cloud & Infra/CAP/High Availability (HA).md",
+    "Cloud & Infra/Semi-Structured Data.md",
+    "Cloud & Infra/SUT System Under Test.md",
+    "Cloud & Infra/Debt Log.md",
+    "Cloud & Infra/Saas-Paas-Laas/PaaS.md",
+    "Cloud & Infra/Saas-Paas-Laas/SaaS.md",
+    "Cloud & Infra/Saas-Paas-Laas/IaaS.md",
+    "Cloud & Infra/ვირტუალიზაცია vs კონტეინერიზაცია/Hypervisor.md",
     "Cloud & Infra/ვირტუალიზაცია vs კონტეინერიზაცია/Map.md",
     "Cloud & Infra/ვირტუალიზაცია vs კონტეინერიზაცია/Orchestration (Kubernetes).md",
     "Cloud & Infra/Infrastructure as Code (IaC – Terraform, Bicep).md",
     "Cloud & Infra/ვირტუალიზაცია vs კონტეინერიზაცია/Deployment strategies.md",
-    "Cloud & Infra/Saas-Paas-Laas/SaaS.md",
     "Cloud & Infra/Saas-Paas-Laas",
-    "Cloud & Infra/Semi-Structured Data.md",
     "Cloud & Infra/Serverless Computing.md",
-    "Cloud & Infra/SUT System Under Test.md",
-    "Cloud & Infra/Resilience.md",
-    "Cloud & Infra/Rrdis.md",
-    "Cloud & Infra/Saas-Paas-Laas/IaaS.md",
-    "Cloud & Infra/Debt Log.md",
     "Cloud & Infra/CAP",
-    "Cloud & Infra/ვირტუალიზაცია vs კონტეინერიზაცია/Network Virtualization.md",
-    "Cloud & Infra/ვირტუალიზაცია vs კონტეინერიზაცია/Disk Virtualization (Storage Layer).md",
-    "Cloud & Infra/ვირტუალიზაცია vs კონტეინერიზაცია/Memory Virtualization.md",
-    "Cloud & Infra/ვირტუალიზაცია vs კონტეინერიზაცია/Hypervisor Scheduler.md",
-    "Cloud & Infra/ვირტუალიზაცია vs კონტეინერიზაცია/Hypervisor.md",
-    "Cloud & Infra/ვირტუალიზაცია vs კონტეინერიზაცია/Kernel.md",
-    "Cloud & Infra/ვირტუალიზაცია vs კონტეინერიზაცია/System Call (syscall).md",
-    "Cloud & Infra/ვირტუალიზაცია vs კონტეინერიზაცია/ვირტუალიზაცია vs კონტეინერიზაცია.md",
     "Cloud & Infra/ვირტუალიზაცია vs კონტეინერიზაცია",
     "Untitled",
     "Cloud & Infra/Hypervisor"
