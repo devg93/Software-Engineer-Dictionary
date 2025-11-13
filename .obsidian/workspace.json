@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ef55c29c6e1840ff",
+        "id": "2d611d8bae3ca798",
         "type": "tabs",
         "children": [
           {
-            "id": "ab3e2e17837d8287",
+            "id": "95393ef74939bd6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NET-Specific Advanced/Closure-ქლოუჟერი.md",
+                "file": "NET-Specific Advanced/NET +SDK/Middlewares/🟦 Full Deep Technical Flow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Closure-ქლოუჟერი"
+              "title": "🟦 Full Deep Technical Flow"
             }
           }
         ]
@@ -166,10 +166,35 @@
       "bases:Create new base": false
     }
   },
-  "active": "ab3e2e17837d8287",
+  "active": "95393ef74939bd6f",
   "lastOpenFiles": [
-    "ლოგირება და ლოგირების სტრატეგიები/Level management-დონეების მართვა.md",
+    "Pasted image 20251113224821.png",
+    "NET-Specific Advanced/NET +SDK/Middlewares/🟦 Full Deep Technical Flow.md",
+    "NET-Specific Advanced/NET +SDK/Middlewares/🟥 7. Authorization Middleware.md",
+    "Pasted image 20251113224704.png",
+    "NET-Specific Advanced/NET +SDK/Middlewares/🟪 6. Authentication Middleware.md",
+    "Pasted image 20251113224623.png",
+    "NET-Specific Advanced/NET +SDK/Middlewares/🟩 5. CORS Middleware.md",
+    "Pasted image 20251113224533.png",
+    "NET-Specific Advanced/NET +SDK/Middlewares/🟦 4. RoutingMiddleware.md",
+    "Pasted image 20251113224500.png",
+    "NET-Specific Advanced/NET +SDK/Middlewares/🟨 3. StaticFilesMiddleware.md",
+    "Pasted image 20251113224400.png",
+    "NET-Specific Advanced/NET +SDK/Middlewares/🟧 2. HttpsRedirectionMiddleware.md",
+    "Pasted image 20251113224324.png",
+    "NET-Specific Advanced/NET +SDK/Middlewares/🟥  ExceptionMiddleware.md",
+    "NET-Specific Advanced/NET +SDK/🟥 1. Kestrel.md",
+    "NET-Specific Advanced/NET +SDK/Middlewares",
+    "NET-Specific Advanced/NET +SDK/End-to-End Infrastructure Flow.md",
+    "NET-Specific Advanced/NET +SDK/🟦 **I. COMPILE-TIME**.md",
+    "NET-Specific Advanced/NET +SDK/🟥 III. RUN-TIME.md",
+    "NET-Specific Advanced/NET +SDK/🟨 II. BUILD-TIME.md",
+    "NET-Specific Advanced/NET +SDK/DotNet.md",
+    "NET-Specific Advanced/NET +SDK/CLR JIT pipeline.md",
+    "NET-Specific Advanced/NET +SDK/MSBuild.md",
+    "NET-Specific Advanced/NET +SDK",
     "NET-Specific Advanced/Closure-ქლოუჟერი.md",
+    "ლოგირება და ლოგირების სტრატეგიები/Level management-დონეების მართვა.md",
     "ლოგირება და ლოგირების სტრატეგიები/Retention და Rotation.md",
     "ლოგირება და ლოგირების სტრატეგიები/structured logging-სტრუქტურირებული.md",
     "ლოგირება და ლოგირების სტრატეგიები/Correlation Id.md",
@@ -177,24 +202,7 @@
     "ტერმინები/Time-based invalidation (TTL) -.md",
     "Architecture/Caching (Redis, In-memory, Distributed).md",
     "Architecture/Service Discovery.md",
-    "Architecture/Plug-in Architecture.md",
-    "Architecture/Monolith vs Microservices vs Modular Monolith.md",
-    "Architecture/Eventual Consistency.md",
-    "Cloud & Infra/CAP/Fault Tolerance.md",
-    "Cloud & Infra/CAP/High Availability (HA).md",
-    "Cloud & Infra/Semi-Structured Data.md",
-    "Cloud & Infra/SUT System Under Test.md",
-    "Cloud & Infra/Debt Log.md",
-    "Cloud & Infra/Saas-Paas-Laas/PaaS.md",
-    "Cloud & Infra/Saas-Paas-Laas/SaaS.md",
-    "Cloud & Infra/Saas-Paas-Laas/IaaS.md",
-    "Cloud & Infra/ვირტუალიზაცია vs კონტეინერიზაცია/Hypervisor.md",
-    "Cloud & Infra/ვირტუალიზაცია vs კონტეინერიზაცია/Map.md",
-    "Cloud & Infra/ვირტუალიზაცია vs კონტეინერიზაცია/Orchestration (Kubernetes).md",
-    "Cloud & Infra/Infrastructure as Code (IaC – Terraform, Bicep).md",
-    "Cloud & Infra/ვირტუალიზაცია vs კონტეინერიზაცია/Deployment strategies.md",
     "Cloud & Infra/Saas-Paas-Laas",
-    "Cloud & Infra/Serverless Computing.md",
     "Cloud & Infra/CAP",
     "Cloud & Infra/ვირტუალიზაცია vs კონტეინერიზაცია",
     "Untitled",
